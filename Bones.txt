@@ -12,3 +12,4 @@ Axial Skeleton - Skull - Facial Bones - Lacrimal bones
 Axial Skeleton - Skull - Facial Bones - Palatine bones
 Axial Skeleton - Skull - Facial Bones - Inferior nasal conchae
 Axial Skeleton - Skull - Facial Bones - Vomer
+Axial Skeleton - Auditory Ossicles - Malleus
