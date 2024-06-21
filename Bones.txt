@@ -35,3 +35,4 @@ Appendicular Skeleton - Upper Limbs - Hand - Carpals - Pisiform
 Appendicular Skeleton - Upper Limbs - Hand - Carpals - Trapezium
 Appendicular Skeleton - Upper Limbs - Hand - Carpals - Trapezoid
 Appendicular Skeleton - Upper Limbs - Hand - Carpals - Capitate
+Appendicular Skeleton - Upper Limbs - Hand - Carpals - Hamate
