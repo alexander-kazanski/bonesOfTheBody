@@ -5,3 +5,4 @@ Axial Skeleton - Skull - Cranial Bones - Temporal bones
 Axial Skeleton - Skull - Cranial Bones - Sphenoid bone
 Axial Skeleton - Skull - Cranial Bones - Ethmoid bone
 Axial Skeleton - Skull - Facial Bones - Nasal bones
+Axial Skeleton - Skull - Facial Bones - Maxillae
