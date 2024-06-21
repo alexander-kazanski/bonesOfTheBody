@@ -16,3 +16,4 @@ Axial Skeleton - Auditory Ossicles - Malleus
 Axial Skeleton - Auditory Ossicles - Incus
 Axial Skeleton - Auditory Ossicles - Stapes
 Axial Skeleton - Hyoid Bone - Hyoid bone
+Axial Skeleton - Vertebral Column - Cervical vertebrae
