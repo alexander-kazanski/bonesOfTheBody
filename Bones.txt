@@ -37,3 +37,4 @@ Appendicular Skeleton - Upper Limbs - Hand - Carpals - Trapezoid
 Appendicular Skeleton - Upper Limbs - Hand - Carpals - Capitate
 Appendicular Skeleton - Upper Limbs - Hand - Carpals - Hamate
 Appendicular Skeleton - Upper Limbs - Hand - Metacarpals - Metacarpals
+Appendicular Skeleton - Upper Limbs - Hand - Phalanges - Proximal phalanges
