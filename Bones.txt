@@ -50,3 +50,4 @@ Appendicular Skeleton - Lower Limbs - Foot - Tarsals - Calcaneus
 Appendicular Skeleton - Lower Limbs - Foot - Tarsals - Navicular
 Appendicular Skeleton - Lower Limbs - Foot - Tarsals - Medial cuneiform
 Appendicular Skeleton - Lower Limbs - Foot - Tarsals - Intermediate cuneiform
+Appendicular Skeleton - Lower Limbs - Foot - Tarsals - Lateral cuneiform
