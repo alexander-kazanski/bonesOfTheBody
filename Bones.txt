@@ -3,3 +3,4 @@ Axial Skeleton - Skull - Cranial Bones - Parietal bones
 Axial Skeleton - Skull - Cranial Bones - Occipital bone
 Axial Skeleton - Skull - Cranial Bones - Temporal bones
 Axial Skeleton - Skull - Cranial Bones - Sphenoid bone
+Axial Skeleton - Skull - Cranial Bones - Ethmoid bone
