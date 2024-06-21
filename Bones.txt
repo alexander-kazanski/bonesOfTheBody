@@ -55,3 +55,4 @@ Appendicular Skeleton - Lower Limbs - Foot - Tarsals - Cuboid
 Appendicular Skeleton - Lower Limbs - Foot - Metatarsals - Metatarsals
 Appendicular Skeleton - Lower Limbs - Foot - Phalanges - Proximal phalanges
 Appendicular Skeleton - Lower Limbs - Foot - Phalanges - Middle phalanges
+Appendicular Skeleton - Lower Limbs - Foot - Phalanges - Distal phalanges
