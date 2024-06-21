@@ -21,3 +21,4 @@ Axial Skeleton - Vertebral Column - Thoracic vertebrae
 Axial Skeleton - Vertebral Column - Lumbar vertebrae
 Axial Skeleton - Vertebral Column - Sacrum
 Axial Skeleton - Vertebral Column - Coccyx
+Axial Skeleton - Thoracic Cage - Ribs
