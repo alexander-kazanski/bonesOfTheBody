@@ -33,3 +33,4 @@ Appendicular Skeleton - Upper Limbs - Hand - Carpals - Lunate
 Appendicular Skeleton - Upper Limbs - Hand - Carpals - Triquetrum
 Appendicular Skeleton - Upper Limbs - Hand - Carpals - Pisiform
 Appendicular Skeleton - Upper Limbs - Hand - Carpals - Trapezium
+Appendicular Skeleton - Upper Limbs - Hand - Carpals - Trapezoid
