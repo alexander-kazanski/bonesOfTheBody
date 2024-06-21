@@ -6,3 +6,4 @@ Axial Skeleton - Skull - Cranial Bones - Sphenoid bone
 Axial Skeleton - Skull - Cranial Bones - Ethmoid bone
 Axial Skeleton - Skull - Facial Bones - Nasal bones
 Axial Skeleton - Skull - Facial Bones - Maxillae
+Axial Skeleton - Skull - Facial Bones - Zygomatic bones
