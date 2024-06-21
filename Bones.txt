@@ -18,3 +18,4 @@ Axial Skeleton - Auditory Ossicles - Stapes
 Axial Skeleton - Hyoid Bone - Hyoid bone
 Axial Skeleton - Vertebral Column - Cervical vertebrae
 Axial Skeleton - Vertebral Column - Thoracic vertebrae
+Axial Skeleton - Vertebral Column - Lumbar vertebrae
