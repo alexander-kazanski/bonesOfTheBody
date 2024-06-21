@@ -48,3 +48,4 @@ Appendicular Skeleton - Lower Limbs - Leg - Fibula
 Appendicular Skeleton - Lower Limbs - Foot - Tarsals - Talus
 Appendicular Skeleton - Lower Limbs - Foot - Tarsals - Calcaneus
 Appendicular Skeleton - Lower Limbs - Foot - Tarsals - Navicular
+Appendicular Skeleton - Lower Limbs - Foot - Tarsals - Medial cuneiform
