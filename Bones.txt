@@ -43,3 +43,4 @@ Appendicular Skeleton - Upper Limbs - Hand - Phalanges - Distal phalanges
 Appendicular Skeleton - Pelvic Girdle - Hip bones
 Appendicular Skeleton - Lower Limbs - Thigh - Femur
 Appendicular Skeleton - Lower Limbs - Thigh - Patella
+Appendicular Skeleton - Lower Limbs - Leg - Tibia
