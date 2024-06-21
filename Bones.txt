@@ -25,3 +25,4 @@ Axial Skeleton - Thoracic Cage - Ribs
 Axial Skeleton - Thoracic Cage - Sternum
 Appendicular Skeleton - Pectoral Girdles - Clavicles
 Appendicular Skeleton - Pectoral Girdles - Scapulae
+Appendicular Skeleton - Upper Limbs - Arm - Humerus
