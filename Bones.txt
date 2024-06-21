@@ -23,3 +23,4 @@ Axial Skeleton - Vertebral Column - Sacrum
 Axial Skeleton - Vertebral Column - Coccyx
 Axial Skeleton - Thoracic Cage - Ribs
 Axial Skeleton - Thoracic Cage - Sternum
+Appendicular Skeleton - Pectoral Girdles - Clavicles
