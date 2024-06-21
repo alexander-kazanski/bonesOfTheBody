@@ -14,3 +14,4 @@ Axial Skeleton - Skull - Facial Bones - Inferior nasal conchae
 Axial Skeleton - Skull - Facial Bones - Vomer
 Axial Skeleton - Auditory Ossicles - Malleus
 Axial Skeleton - Auditory Ossicles - Incus
+Axial Skeleton - Auditory Ossicles - Stapes
