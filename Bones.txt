@@ -15,3 +15,4 @@ Axial Skeleton - Skull - Facial Bones - Vomer
 Axial Skeleton - Auditory Ossicles - Malleus
 Axial Skeleton - Auditory Ossicles - Incus
 Axial Skeleton - Auditory Ossicles - Stapes
+Axial Skeleton - Hyoid Bone - Hyoid bone
